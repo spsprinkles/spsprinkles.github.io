@@ -1,0 +1,20 @@
+{
+  "name": "spsprinkles.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "bundle exec jekyll serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spsprinkles/spsprinkles.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spsprinkles/spsprinkles.github.io/issues"
+  },
+  "homepage": "https://github.com/spsprinkles/spsprinkles.github.io#readme"
+}
