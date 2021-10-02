@@ -9,7 +9,7 @@ categories: Solutions
 
 Helps manage conference line requests from an organization. The solution is designed for SharePoint 2013/Online environments.
 
-[Click Here](https://github.com/datta-framework/clrs) to access the repository.
+[Click Here](https://github.com/spsprinkles/clrs) to access the repository.
 
 #### Deployment Guide
 

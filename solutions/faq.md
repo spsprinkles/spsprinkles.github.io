@@ -9,7 +9,7 @@ categories: Solutions
 
 Displays frequently asked questions in a webpart.
 
-[Click Here](https://github.com/datta-framework/faq) to access the repository.
+[Click Here](https://github.com/spsprinkles/faq) to access the repository.
 
 #### Deployment Guide
 

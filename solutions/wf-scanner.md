@@ -9,7 +9,7 @@ categories: Solutions
 
 Scans site collection(s) for workflow instances.
 
-[Click Here](https://github.com/datta-framework/wf-dashboard) to access the repository.
+[Click Here](https://github.com/spsprinkles/wf-dashboard) to access the repository.
 
 #### Deployment Guide
 

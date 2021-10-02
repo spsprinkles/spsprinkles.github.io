@@ -9,7 +9,7 @@ categories: Solutions
 
 Displays the [Microsoft 365 Roadmap](https://www.microsoft.com/en-us/microsoft-365/roadmap) in a data table, with search and filter capabilities.
 
-[Click Here](https://github.com/datta-framework/m365-roadmap) to access the repository.
+[Click Here](https://github.com/spsprinkles/m365-roadmap) to access the repository.
 
 #### Deployment Guide
 

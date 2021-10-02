@@ -9,7 +9,7 @@ categories: Solutions
 
 Displays a banner at the top of modern or classic pages.
 
-[Click Here](https://github.com/datta-framework/outages) to access the repository.
+[Click Here](https://github.com/spsprinkles/outages) to access the repository.
 
 #### Deployment Guide
 
