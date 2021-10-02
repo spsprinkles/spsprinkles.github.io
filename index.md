@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+All solutions extend from a core jump start project. These projects are 80-100% complete and contain a JSON configuration. The solution assets are provided, so there is no need to compile your own version. If further customization is required, then the repository for each project can be `forked` to your client ADO project.
 
-You can use the [editor on GitHub](https://github.com/spsprinkles/spsprinkles.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+* [Conference Line Request System](/solutions/clrs)
+* [FAQ WebPart](/solutions/faq)
+* [License Management Tool](/solutions/lmt)
+* [M365 Roadmap](/solutions/m365-roadmap)
+* [Outages](/solutions/outages)
+* [Workflow Scanner](/solutions/wf-scanner)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Bugs & Feature Requests
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/spsprinkles/spsprinkles.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Go to the corresponding board and submit a feature request or bug.
