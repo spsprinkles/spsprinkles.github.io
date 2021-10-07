@@ -1,5 +1,5 @@
 ---
-date: 2021-06-28
+date: 2021-10-07
 layout: post
 title: Documents View
 subtitle: A DattaTable Component
