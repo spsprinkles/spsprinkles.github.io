@@ -5,7 +5,7 @@ title: Create Content Types Using JSOM
 subtitle:
 description: Use JSOM to create content types.
 image:
-optimized_image: /assets/img/blog.jpg
+optimized_image: /assets/img/blog-image.jpg
 category: blog
 tags:
   - JSOM

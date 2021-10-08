@@ -5,7 +5,7 @@ title: Minimal Page for SharePoint App Parts
 subtitle:
 description: Create a blank page in SharePoint.
 image:
-optimized_image: /assets/img/blog.jpg
+optimized_image: /assets/img/blog-image.jpg
 category: blog
 tags:
   - Minimal Page

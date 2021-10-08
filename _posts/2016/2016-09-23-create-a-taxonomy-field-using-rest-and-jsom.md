@@ -5,7 +5,7 @@ title: Create a Managed Metadata Field Using REST and JSOM
 subtitle:
 description: Use the REST API and JSOM to create a managed metadata field.
 image:
-optimized_image: /assets/img/blog.jpg
+optimized_image: /assets/img/blog-image.jpg
 category: blog
 tags:
   - JSOM

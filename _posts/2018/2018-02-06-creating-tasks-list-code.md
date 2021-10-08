@@ -5,7 +5,7 @@ title: Tasks List Issue with Project Summary WebPart
 subtitle:
 description: Learn how to troubleshoot a task list not connecting to a project summary webpart.
 image:
-optimized_image: /assets/img/blog.jpg
+optimized_image: /assets/img/blog-image.jpg
 category: blog
 tags:
   - List

@@ -5,7 +5,7 @@ title: SharePoint Field Schema XML Examples
 subtitle:
 description: Examples of defining SchemaXml definitions for fields.
 image:
-optimized_image: /assets/img/blog.jpg
+optimized_image: /assets/img/blog-image.jpg
 category: blog
 tags:
   - Field

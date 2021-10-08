@@ -5,7 +5,7 @@ title: SharePoint JavaScript Libraries
 subtitle:
 description: Learn how to use the built-in classic libraries.
 image:
-optimized_image: /assets/img/blog.jpg
+optimized_image: /assets/img/blog-image.jpg
 category: blog
 tags:
   - Classic

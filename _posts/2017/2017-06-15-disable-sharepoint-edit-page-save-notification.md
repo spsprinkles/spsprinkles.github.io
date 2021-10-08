@@ -5,7 +5,7 @@ title: Disable SharePoint Edit Page Save Notification
 subtitle:
 description: Learn how to disable the edit page save notification.
 image:
-optimized_image: /assets/img/blog.jpg
+optimized_image: /assets/img/blog-image.jpg
 category: blog
 tags:
   - Classic
