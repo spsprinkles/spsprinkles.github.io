@@ -5,7 +5,7 @@ title: Detect Page in App Part
 subtitle:
 description: Learn how to detect if the page is an app part.
 image:
-optimized_image: /assets/img/post.jpg
+optimized_image: /assets/img/blog.jpg
 category: blog
 tags:
   - Add-In

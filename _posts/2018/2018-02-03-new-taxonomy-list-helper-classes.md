@@ -5,7 +5,7 @@ title: New Taxonomy & List Helper Classes
 subtitle:
 description: Use JSOM to create content types.
 image:
-optimized_image: /assets/img/post.jpg
+optimized_image: /assets/img/blog.jpg
 category: blog
 tags:
   - MMS

@@ -5,7 +5,7 @@ title: Taxonomy Fields and OData Queries
 subtitle:
 description: Learn how to query data from a taxonomy field.
 image:
-optimized_image: /assets/img/post.jpg
+optimized_image: /assets/img/blog.jpg
 category: blog
 tags:
   - OData

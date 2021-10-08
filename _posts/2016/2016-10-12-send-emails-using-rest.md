@@ -5,7 +5,7 @@ title: Send Emails Using REST
 subtitle:
 description: Use the REST API to send emails.
 image:
-optimized_image: /assets/img/post.jpg
+optimized_image: /assets/img/blog.jpg
 category: blog
 tags:
   - Email

@@ -5,7 +5,7 @@ title: Enable NPM in a SharePoint Hosted App
 subtitle: How to enable NPM in a VS SharePoint Hosted Add-In.
 description:
 image:
-optimized_image: /assets/img/post.jpg
+optimized_image: /assets/img/blog.jpg
 category: blog
 tags:
   - Add-In
