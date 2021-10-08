@@ -6,10 +6,10 @@ subtitle:
 description: A SharePoint 2013/Online solution for scanning site collections for workflows.
 image: /assets/solutions/wf-dashboard.png
 optimized_image: /assets/solutions/wf-dashboard.png
-category: Solutions
+category: solutions
 tags:
-  - SharePoint 2013
-  - SharePoint Online
+  - Classic
+  - Modern
   - Solutions
 author: spsprinkles
 ---

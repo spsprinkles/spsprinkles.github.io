@@ -6,10 +6,10 @@ subtitle:
 description: A SharePoint 2013/Online solution for displaying an outages banner.
 image: /assets/solutions/outages.png
 optimized_image: /assets/solutions/outages.png
-category: Solutions
+category: solutions
 tags:
-  - SharePoint 2013
-  - SharePoint Online
+  - Classic
+  - Modern
   - Solutions
 author: spsprinkles
 ---
