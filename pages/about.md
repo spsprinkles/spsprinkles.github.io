@@ -5,7 +5,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/authors/spsprinkles.png" alt="SP Sprinkles" width="200">
+<img class="img-rounded" src="/assets/img/authors/spsprinkles.jpg" alt="SP Sprinkles" width="200">
 
 # About
 
