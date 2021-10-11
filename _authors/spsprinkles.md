@@ -7,7 +7,7 @@ position: SharePoint Architect
 bio: A SharePoint Solution Creating Machine
 github_username: spsprinkles
 facebook_username: 
-twitter_username: 
+twitter_username: spsprinkles
 instagram_username: 
 linkedin_username: 
 medium_username: 

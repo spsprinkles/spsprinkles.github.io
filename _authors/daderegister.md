@@ -1,15 +1,14 @@
 ---
 layout: author
-photo: /assets/img/authors/profile.jpg
+photo: /assets/img/authors/Dade.jpg
 name: daderegister
 display_name: Dade Register
 position: SharePoint Developer
-bio: Just a SharePoint Developer
-github_username: 
+bio: \"Sprinkling SharePoint one app at a time...\"
+github_username: Dade-R
 facebook_username: 
 twitter_username: 
 instagram_username: 
-linkedin_username: 
+linkedin_username: dader
 medium_username: 
 ---
-
