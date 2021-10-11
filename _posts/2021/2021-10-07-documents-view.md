@@ -12,7 +12,7 @@ tags:
   - Modern
   - Code Walkthrough
   - Document Library
-author: gunjandatta
+author: daderegister
 ---
 
 The [DattaTable Library](https://datta-framework.github.io/dattatable) has a new [Documents](https://datta-framework.github.io/dattatable/classes/Documents.html) component that will allow you to easily interact with a document library. This modern look will work in SharePoint 2013 environments, so you are able to create modern solutions in classic environments.
