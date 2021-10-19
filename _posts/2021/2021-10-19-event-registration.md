@@ -2,7 +2,7 @@
 date: 2021-10-19
 layout: post
 title: Event Registration
-subtitle: A DattaTable Component
+subtitle: 
 description: An event registration solution designed for SharePoint 2013/Online environments.
 image: /assets/posts/event-registration/demo.png
 optimized_image: /assets/posts/event-registration/demo.png
