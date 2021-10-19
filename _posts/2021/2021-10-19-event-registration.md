@@ -4,8 +4,8 @@ layout: post
 title: Event Registration
 subtitle: 
 description: An event registration solution designed for SharePoint 2013/Online environments.
-image: /assets/posts/event-registration/demo.png
-optimized_image: /assets/posts/event-registration/demo.png
+image: /assets/posts/event-registration/view-solution.png
+optimized_image: /assets/posts/event-registration/view-solution.png
 category: blog
 tags:
   - Classic
