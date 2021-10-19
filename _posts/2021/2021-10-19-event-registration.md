@@ -19,8 +19,7 @@ author: gunjandatta
 A tool for organizers to create and manage events in SharePoint Online.
 
 **Original Developers**
-_Michael Wilson_
-_Josh Gardner_
+_Michael Wilson & Josh Gardner_
 
 # Build
 
