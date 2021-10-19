@@ -26,17 +26,16 @@ _Josh Gardner_
 
 1. Fork the solution and clone it to your machine
 2. Install the libraries
-```js
-npm i
-```
+
+```npm i```
+
 3. Link TypeScript
-```js
-npm link typescript
-```
+
+```npm link typescript```
+
 4. Build the Solution
-```js
-npm run all
-```
+
+```npm run all```
 
 # Installation and Deployment
 
