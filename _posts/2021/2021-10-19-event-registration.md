@@ -14,8 +14,6 @@ tags:
 author: gunjandatta
 ---
 
-# Event Registration
-
 A tool for organizers to create and manage events in SharePoint Online.
 
 **Original Developers**
