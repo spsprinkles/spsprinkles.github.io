@@ -34,12 +34,27 @@ The solution is designed to be further customized. To create your own the instan
 
 ## Upload Assets
 
-|Assets|
-| --- |
-|[event-registration.min.js](https://github.com/AFGSC-DSK/event-registration/raw/master/dist/event-registration.min.js)|
-|[eventreg-config.json](https://github.com/AFGSC-DSK/event-registration/raw/master/assets/eventreg-config.json)|
-|[index.html](https://github.com/AFGSC-DSK/event-registration/raw/master/assets/index.html)|
-_Right click and save the files for the next step._
+<table>
+  <thead>
+    <tr>
+      <th>Assets</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>[event-registration.min.js](https://github.com/AFGSC-DSK/event-registration/raw/master/dist/event-registration.min.js)</td>
+    </tr>
+    <tr>
+      <td>[eventreg-config.json](https://github.com/AFGSC-DSK/event-registration/raw/master/assets/eventreg-config.json)</td>
+    </tr>
+    <tr>
+      <td>[index.html](https://github.com/AFGSC-DSK/event-registration/raw/master/assets/index.html)</td>
+    </tr>
+    <tr>
+      <td>_Right click and save the files for the next step._</td>
+    </tr>
+  </tbody>
+</table>
 
 1. Go to Site content -> Site Assets where the app shall live
 2. Create a new folder and it _must_ be named `Event-Registration`
