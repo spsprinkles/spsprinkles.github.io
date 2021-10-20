@@ -43,36 +43,36 @@ _Michael Wilson & Josh Gardner_
 
 ![image](/assets/posts/event-registration/create-folder.png)
 
-3. Click inside of the folder and upload the following: <br/>
+3. Click inside of the folder and upload the following:
 
 ![image](/assets/posts/event-registration/upload-assets.png)
 
-4. Navigate to Site Pages <br/>
+4. Navigate to Site Pages
 
 ![image](/assets/posts/event-registration/site-pages.png)
 
 5. Click New -> Web Part Page
-6. Type the name of the page before ".aspx" (era is recommended) and select "Full Page, Vertical" for layout template. <br/>
+6. Type the name of the page before ".aspx" (era is recommended) and select "Full Page, Vertical" for layout template.
 
 ![image](/assets/posts/event-registration/create-wp.png)
 
-7. Click "Add a Web Part" and set Categories to "Media and Content" and Parts to "Content Editor" <br/>
+7. Click "Add a Web Part" and set Categories to "Media and Content" and Parts to "Content Editor"
 
 ![image](/assets/posts/event-registration/add-wp.png)
 
-8. Click the dropdown arrow in the upper right corner and choose Edit Web Part <br/>
+8. Click the dropdown arrow in the upper right corner and choose Edit Web Part
 
 ![image](/assets/posts/event-registration/edit-properties.png)
 
-9. Under "Content Link" copy-paste link to index.html file and under "Appearance" set "Chrome Type" to None <br/>
+9. Under "Content Link" copy-paste link to index.html file and under "Appearance" set "Chrome Type" to None
 
 ![image](/assets/posts/event-registration/set-link.png)
 
-10. Click Install on the Installation Required screen <br/>
+10. Click Install on the Installation Required screen
 
 ![image](/assets/posts/event-registration/install-solution.png)
 
-11. Click Refresh after installation is loaded <br/>
+11. Click Refresh after installation is loaded
 
 ![image](/assets/posts/event-registration/refresh-page.png)
 
@@ -80,7 +80,7 @@ _Michael Wilson & Josh Gardner_
 
 ![image](/assets/posts/event-registration/stop-editing.png)
 
-13. CONGRATULATIONS!!! ERA is now ready to go! It will appear similar to the screen-shots below.
+13. CONGRATULATIONS!!! The solution is now ready to go! It will appear similar to the screen-shots below.
 
 **Administrators/Organizers View**
 
