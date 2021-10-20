@@ -34,6 +34,8 @@ The solution is designed to be further customized. To create your own the instan
 
 ## Upload Assets
 
+_Right click and save the files for the next step._
+
 <table>
   <thead>
     <tr>
@@ -58,8 +60,6 @@ The solution is designed to be further customized. To create your own the instan
     </tr>
   </tbody>
 </table>
-
-_Right click and save the files for the next step._
 
 * Go to Site content -> Site Assets where the app shall live
 * Create a new folder and it _must_ be named `Event-Registration`
