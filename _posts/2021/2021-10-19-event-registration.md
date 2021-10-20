@@ -26,24 +26,13 @@ _Michael Wilson & Josh Gardner_
 The solution is designed to be further customized. To create your own the instance of the solution, follow the steps below.
 
 1. Fork the solution and clone it to your machine
-2. Install the libraries
-
-```npm i```
-
-3. Link TypeScript
-
-```npm link typescript```
-
-4. Build the Solution
-
-```npm run all```
+2. Install the libraries: `npm i`
+3. Link TypeScript: `npm link typescript`
+4. Build the Solution: `npm run all`
 
 # Installation and Deployment
 
-1. Go to Site content -> Site Assets where the app shall live
-2. Create a new folder and it _must_ be named `Event-Registration`
-
-![image](/assets/posts/event-registration/create-folder.png)
+## Upload Assets
 
 |Assets|
 | --- |
@@ -52,44 +41,53 @@ The solution is designed to be further customized. To create your own the instan
 |[index.html](https://github.com/AFGSC-DSK/event-registration/raw/master/assets/index.html)|
 _Right click and save the files for the next step._
 
+1. Go to Site content -> Site Assets where the app shall live
+2. Create a new folder and it _must_ be named `Event-Registration`
+
+![image](/assets/posts/event-registration/create-folder.png)
+
 3. Click inside of the folder and upload the following:
 
 ![image](/assets/posts/event-registration/upload-assets.png)
 
-4. Navigate to Site Pages
+## Create WebPart Page
+
+1. Navigate to Site Pages
 
 ![image](/assets/posts/event-registration/site-pages.png)
 
-5. Click New -> Web Part Page
-6. Type the name of the page before ".aspx" (era is recommended) and select "Full Page, Vertical" for layout template.
+2. Click New -> Web Part Page
+3. Type the name of the page before ".aspx" (era is recommended) and select "Full Page, Vertical" for layout template.
 
 ![image](/assets/posts/event-registration/create-wp.png)
 
-7. Click "Add a Web Part" and set Categories to "Media and Content" and Parts to "Content Editor"
+## Configure Solution
+
+1. Click "Add a Web Part" and set Categories to "Media and Content" and Parts to "Content Editor"
 
 ![image](/assets/posts/event-registration/add-wp.png)
 
-8. Click the dropdown arrow in the upper right corner and choose Edit Web Part
+2. Click the dropdown arrow in the upper right corner and choose Edit Web Part
 
 ![image](/assets/posts/event-registration/edit-properties.png)
 
-9. Under "Content Link" copy-paste link to index.html file and under "Appearance" set "Chrome Type" to None
+3. Under "Content Link" copy-paste link to index.html file and under "Appearance" set "Chrome Type" to None
 
 ![image](/assets/posts/event-registration/set-link.png)
 
-10. Click Install on the Installation Required screen
+4. Click Install on the Installation Required screen
 
 ![image](/assets/posts/event-registration/install-solution.png)
 
-11. Click Refresh after installation is loaded
+5. Click Refresh after installation is loaded
 
 ![image](/assets/posts/event-registration/refresh-page.png)
 
-12. Click Stop editing if present. 
+6. Click Stop editing if present. 
 
 ![image](/assets/posts/event-registration/stop-editing.png)
 
-13. CONGRATULATIONS!!! The solution is now ready to go! It will appear similar to the screen-shots below.
+7. CONGRATULATIONS!!! The solution is now ready to go! It will appear similar to the screen-shots below.
 
 **Administrators/Organizers View**
 
