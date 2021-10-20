@@ -21,7 +21,7 @@ A tool for organizers to create and manage events in SharePoint Online.
 **Original Developers**
 _Michael Wilson & Josh Gardner_
 
-# Custom Solution
+## Solution Code
 
 The solution is designed to be used as is or further customized. [Click here](https://github.com/spsprinkles/event-registration) to access the code repository. This solution builds on top of the [Basic Dashboard](https://dattabase.com/examples/#basic-dashboard) walkthrough. To create your own the instance of the solution, follow the steps below.
 
