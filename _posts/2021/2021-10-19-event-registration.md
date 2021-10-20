@@ -10,7 +10,7 @@ category: blog
 tags:
   - Classic
   - Modern
-  - Solution
+  - Solutions
 author: gunjandatta
 ---
 
