@@ -45,7 +45,6 @@ The solution is designed to be further customized. To create your own the instan
 
 ![image](/assets/posts/event-registration/create-folder.png)
 
-
 |Assets|
 | --- |
 |[event-registration.min.js](https://github.com/AFGSC-DSK/event-registration/raw/master/dist/event-registration.min.js)|
