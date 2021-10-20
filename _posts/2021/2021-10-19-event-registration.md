@@ -42,18 +42,26 @@ The solution is designed to be further customized. To create your own the instan
   </thead>
   <tbody>
     <tr>
-      <td>[event-registration.min.js](https://github.com/AFGSC-DSK/event-registration/raw/master/dist/event-registration.min.js)</td>
+      <td>
+        <a href="https://github.com/AFGSC-DSK/event-registration/raw/master/dist/event-registration.min.js">event-registration.min.js</a>
+      </td>
     </tr>
     <tr>
-      <td>[eventreg-config.json](https://github.com/AFGSC-DSK/event-registration/raw/master/assets/eventreg-config.json)</td>
+      <td>
+        <a href="https://github.com/AFGSC-DSK/event-registration/raw/master/assets/eventreg-config.json">eventreg-config.json</a>
+      </td>
     </tr>
     <tr>
-      <td>[index.html](https://github.com/AFGSC-DSK/event-registration/raw/master/assets/index.html)</td>
+      <td>
+        <a href="https://github.com/AFGSC-DSK/event-registration/raw/master/assets/index.html">index.html</a>
+      </td>
     </tr>
+  </tbody>
+  <tfoot>
     <tr>
       <td>_Right click and save the files for the next step._</td>
     </tr>
-  </tbody>
+  </tfoot>
 </table>
 
 * Go to Site content -> Site Assets where the app shall live
