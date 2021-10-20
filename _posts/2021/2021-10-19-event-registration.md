@@ -57,12 +57,9 @@ The solution is designed to be further customized. To create your own the instan
       </td>
     </tr>
   </tbody>
-  <tfoot>
-    <tr>
-      <td>_Right click and save the files for the next step._</td>
-    </tr>
-  </tfoot>
 </table>
+
+_Right click and save the files for the next step._
 
 * Go to Site content -> Site Assets where the app shall live
 * Create a new folder and it _must_ be named `Event-Registration`
