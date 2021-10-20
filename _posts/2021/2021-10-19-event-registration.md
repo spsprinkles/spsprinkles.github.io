@@ -56,53 +56,53 @@ The solution is designed to be further customized. To create your own the instan
   </tbody>
 </table>
 
-1. Go to Site content -> Site Assets where the app shall live
-2. Create a new folder and it _must_ be named `Event-Registration`
+* Go to Site content -> Site Assets where the app shall live
+* Create a new folder and it _must_ be named `Event-Registration`
 
 ![image](/assets/posts/event-registration/create-folder.png)
 
-3. Click inside of the folder and upload the following:
+* Click inside of the folder and upload the following:
 
 ![image](/assets/posts/event-registration/upload-assets.png)
 
 ## Create WebPart Page
 
-1. Navigate to Site Pages
+* Navigate to Site Pages
 
 ![image](/assets/posts/event-registration/site-pages.png)
 
-2. Click New -> Web Part Page
-3. Type the name of the page before ".aspx" (era is recommended) and select "Full Page, Vertical" for layout template.
+* Click New -> Web Part Page
+* Type the name of the page before ".aspx" (era is recommended) and select "Full Page, Vertical" for layout template.
 
 ![image](/assets/posts/event-registration/create-wp.png)
 
 ## Configure Solution
 
-1. Click "Add a Web Part" and set Categories to "Media and Content" and Parts to "Content Editor"
+* Click "Add a Web Part" and set Categories to "Media and Content" and Parts to "Content Editor"
 
 ![image](/assets/posts/event-registration/add-wp.png)
 
-2. Click the dropdown arrow in the upper right corner and choose Edit Web Part
+* Click the dropdown arrow in the upper right corner and choose Edit Web Part
 
 ![image](/assets/posts/event-registration/edit-properties.png)
 
-3. Under "Content Link" copy-paste link to index.html file and under "Appearance" set "Chrome Type" to None
+* Under "Content Link" copy-paste link to index.html file and under "Appearance" set "Chrome Type" to None
 
 ![image](/assets/posts/event-registration/set-link.png)
 
-4. Click Install on the Installation Required screen
+* Click Install on the Installation Required screen
 
 ![image](/assets/posts/event-registration/install-solution.png)
 
-5. Click Refresh after installation is loaded
+* Click Refresh after installation is loaded
 
 ![image](/assets/posts/event-registration/refresh-page.png)
 
-6. Click Stop editing if present. 
+* Click Stop editing if present. 
 
 ![image](/assets/posts/event-registration/stop-editing.png)
 
-7. CONGRATULATIONS!!! The solution is now ready to go! It will appear similar to the screen-shots below.
+* CONGRATULATIONS!!! The solution is now ready to go! It will appear similar to the screen-shots below.
 
 **Administrators/Organizers View**
 
@@ -117,21 +117,21 @@ The solution is designed to be further customized. To create your own the instan
 
 ## Organizer
 
-1. Create an event with New Event button and view what security groups are managers and members with Manage Groups
-2. View an event's details by clicking the View icon to the left of Title
-3. Upload a document by clicking the Upload icon under Documents. View and delete options will be present
-4. Edit, delete, and view an event's roster by clicking the Manage Events icon. View Roster will have a print option
-5. Type title or date into Search to find a particular event
-6. To view coures that have already started or ended click the filters button next to Search and click Show inactive events
+* Create an event with New Event button and view what security groups are managers and members with Manage Groups
+* View an event's details by clicking the View icon to the left of Title
+* Upload a document by clicking the Upload icon under Documents. View and delete options will be present
+* Edit, delete, and view an event's roster by clicking the Manage Events icon. View Roster will have a print option
+* Type title or date into Search to find a particular event
+* To view coures that have already started or ended click the filters button next to Search and click Show inactive events
 
 ### Change Members and Managers group
 
-1. Navaigate to the "Event-Registration" folder and edit the "eventreg-config.json"
-2. Enter the name of the new group for either the admin group or the members group
+* Navaigate to the "Event-Registration" folder and edit the "eventreg-config.json"
+* Enter the name of the new group for either the admin group or the members group
 
 ## Attendee
 
-1. Type title or date into Search to find a particular event
-2. View an event's details by clicking the View icon to the left of Title
-3. Register or unregister by clicking the Registration button
-4. If regitered for an event, use the Add event calendar button to add it to Outlook 
+* Type title or date into Search to find a particular event
+* View an event's details by clicking the View icon to the left of Title
+* Register or unregister by clicking the Registration button
+* If regitered for an event, use the Add event calendar button to add it to Outlook
