@@ -60,7 +60,7 @@ _Right click and save the files for the next step._
 </table>
 
 * Go to Site content -> Site Assets where the app shall live
-* Create a new folder and it _must_ be named `Event-Registration`
+* Create a new folder and it _must_ be named `event-registration`
 
 ![image](/assets/posts/event-registration/create-folder.png)
 
@@ -78,6 +78,15 @@ _Right click and save the files for the next step._
 * Type the name of the page before ".aspx" (era is recommended) and select "Full Page, Vertical" for layout template.
 
 ![image](/assets/posts/event-registration/create-wp.png)
+
+* Navigate to the `Site Assets` library and move the file to the `event-registration` folder
+
+![image](/assets/posts/event-registration/move-file.png)
+
+* Navigate to the page and click on it to view it
+* Click on the `Edit` button
+
+![image](/assets/posts/event-registration/edit-page.png)
 
 ## Configure Solution
 
@@ -97,15 +106,17 @@ _Right click and save the files for the next step._
 
 ![image](/assets/posts/event-registration/install-solution.png)
 
-* Click Refresh after installation is loaded
+* Click on the 'x' icon to close the dialog
 
-![image](/assets/posts/event-registration/refresh-page.png)
+![image](/assets/posts/event-registration/close-dialog.png)
 
-* Click Stop editing if present. 
+* Click Stop editing icon
 
 ![image](/assets/posts/event-registration/stop-editing.png)
 
-* CONGRATULATIONS!!! The solution is now ready to go! It will appear similar to the screen-shots below.
+* The solution is now ready to go!
+
+## User Views
 
 **Administrators/Organizers View**
 
