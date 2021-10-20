@@ -23,6 +23,8 @@ _Michael Wilson & Josh Gardner_
 
 # Build
 
+The solution is designed to be further customized. To create your own the instance of the solution, follow the steps below.
+
 1. Fork the solution and clone it to your machine
 2. Install the libraries
 
@@ -39,17 +41,17 @@ _Michael Wilson & Josh Gardner_
 # Installation and Deployment
 
 1. Go to Site content -> Site Assets where the app shall live
+2. Create a new folder and it _must_ be named `Event-Registration`
+
+![image](/assets/posts/event-registration/create-folder.png)
+
 
 |Assets|
 | --- |
 |[event-registration.min.js](https://github.com/AFGSC-DSK/event-registration/raw/master/dist/event-registration.min.js)|
 |[eventreg-config.json](https://github.com/AFGSC-DSK/event-registration/raw/master/assets/eventreg-config.json)|
 |[index.html](https://github.com/AFGSC-DSK/event-registration/raw/master/assets/index.html)|
-  
-
-2. Create a new folder and it _must_ be named `Event-Registration`
-
-![image](/assets/posts/event-registration/create-folder.png)
+_Right click and save the files for the next step._
 
 3. Click inside of the folder and upload the following:
 
