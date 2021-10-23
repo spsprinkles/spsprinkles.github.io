@@ -43,17 +43,17 @@ _Right click and save the files for the next step._
   <tbody>
     <tr>
       <td>
-        <a href="https://github.com/AFGSC-DSK/event-registration/raw/master/dist/event-registration.min.js">event-registration.min.js</a>
+        <a href="https://github.com/spsprinkles/event-registration/raw/master/dist/event-registration.min.js">event-registration.min.js</a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/AFGSC-DSK/event-registration/raw/master/assets/eventreg-config.json">eventreg-config.json</a>
+        <a href="https://github.com/spsprinkles/event-registration/raw/master/assets/eventreg-config.json">eventreg-config.json</a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/AFGSC-DSK/event-registration/raw/master/assets/index.html">index.html</a>
+        <a href="https://github.com/spsprinkles/event-registration/raw/master/assets/index.html">index.html</a>
       </td>
     </tr>
   </tbody>
