@@ -17,7 +17,7 @@ author: gunjandatta
 
 This modern webpart will load a solution from a configuration file. This will allow for classic solutions to be easily managed and approved by the tenant or site collection administrator, based on the scope of the deployment. Users will require a minimum of read access to the solution assets and webpart configuration file. Solutions can be added/upgraded dynamically by updating the configuration file and associated solution assets.
 
-All solutions will follow the initialization used by our solutions where a global DOM variable is made available containing a render method. The render method will be passed the webpart's DOM element and page context for interaction with the REST API. There are advanced cases where this can come in handy. Common externaly frameworks and libraries can be included in the main webpart and excluded by the solution libraries. Common themes can be applied through webpart properties.
+All solutions will follow the initialization used by our solutions where a global DOM variable is made available containing a render method. The render method will be passed the webpart's DOM element and page context for interaction with the REST API. There are advanced cases where this can come in handy. Common externaly frameworks and libraries can be included in the main webpart and excluded by the solution libraries. Common themes can be applied through webpart properties. This can allow for better control for various configurations required by many solutions.
 
 **Original Developer**
 _Gunjan Datta_
