@@ -19,6 +19,10 @@ This modern webpart will load a solution from a configuration file. This will al
 
 All solutions will follow the initialization used by our solutions where a global DOM variable is made available containing a render method. The render method will be passed the webpart's DOM element and page context for interaction with the REST API. There are advanced cases where this can come in handy. Common externaly frameworks and libraries can be included in the main webpart and excluded by the solution libraries. Common themes can be applied through webpart properties. This can allow for better control for various configurations required by many solutions.
 
+**_Custom Scripts_**
+
+This modern webpart will load the associated script files in the configuration file in site collections that have the "Custom Scripts" disabled.
+
 **Original Developer**
 _Gunjan Datta_
 
