@@ -18,10 +18,10 @@ menu:
     url: /category/blog
   - title: Solutions
     url: /category/solutions
-  - title: Contact
-    url: /contact
   - title: GitHub
     url: https://github.com/spsprinkles
+  - title: Contact
+    url: /contact
   - title: Feed
     url: /feed.xml
 email: youremail@test.com
