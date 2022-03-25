@@ -1,9 +1,13 @@
 <ul>
   {% for item in site.menu %}
-    {% if item.title and item.url %}
-      <li>
-        <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
-      </li>
+  {% if item.title and item.url %}
+  <li>
+    {% if item.url contains 'http' %}
+    <a href="{{ item.url }}">{{ item.title }}</a>
+    {% else %}
+    <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
     {% endif %}
+  </li>
+  {% endif %}
   {% endfor %}
 </ul>
